@@ -1,6 +1,6 @@
-# TaskTracker
+# TaskManagement
 ### Background
-TaskTracker is a MERN-based website that aims to delegate responsibilities between housemates and provide an outlet to express comments and suggestions to one another anonymously. Living with others can be difficult, but TaskTracker makes it easy to ensure everyone does their part.
+TaskManagement is a MERN-based website that aims to delegate responsibilities between housemates and provide an outlet to express comments and suggestions to one another anonymously. Living with others can be difficult, but TaskTracker makes it easy to ensure everyone does their part.
 
 ### Functionality & MVP
 With this application, users will be able to:
@@ -44,22 +44,6 @@ Things we accomplished this weekend:
 
 + Went over tutorials for the MERN stack and familiarize ourselves with how to build an application
 + The team also started the skeleton of the project and started the developmental version of the application
-
-### Group Members & Work Breakdown
-
-Our group consists of four members: Brian Jeong, Eric Tran, Michael Park and Steven Chen. Each member will handle both the frontend and backend of a feature.
-
-Brian’s primary responsibilities will be:
-+ Tasks
-
-Eric’s primary responsibilities will be:
-+ User auth and home page
-
-Michael’s primary responsibilities will be:
-+ Chat/messages
-
-Steven’s primary responsibilities will be:
-+ Groups
 
 ## Implementation Timeline
 
