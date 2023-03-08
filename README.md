@@ -1,6 +1,6 @@
 # Welcome to TaskManagement!
 
-TaskTracker is a team communication application that unifies team objectives and improves workflow.
+TaskManagement is a team communication application that unifies team objectives and improves workflow.
 
 ### [Live Demo](https://task-Management.herokuapp.com/)
 
