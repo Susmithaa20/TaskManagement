@@ -1,8 +1,8 @@
-# Welcome to TaskTracker!
+# Welcome to TaskManagement!
 
 TaskTracker is a team communication application that unifies team objectives and improves workflow.
 
-### [Live Demo](https://task-trackr.herokuapp.com/)
+### [Live Demo](https://task-Management.herokuapp.com/)
 
 ### Features
 
@@ -11,7 +11,7 @@ TaskTracker is a team communication application that unifies team objectives and
 + Tracking for each group member to see their completed and upcoming tasks.
 
 ### Technologies
-TaskTracker is a collaborative project utilizing the MERN stack (MongoDB, Express, React, Node.js).
+TaskManagement is a collaborative project utilizing the MERN stack (MongoDB, Express, React, Node.js).
 
 ### Technical Info
 
